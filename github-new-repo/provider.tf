@@ -8,5 +8,5 @@ terraform {
 }
 
 provider "github" {
-    token = "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"
+    token = "PAT"
 }
