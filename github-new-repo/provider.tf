@@ -9,4 +9,5 @@ terraform {
 
 provider "github" {
     token = "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"
+    owner = "Shra1Yadav"
 }
